@@ -5,7 +5,7 @@ A demo of React-Native + Flux:<br />
 
 ##Setup
 1. Follow the "Getting Started" guide from [Facebook's React Native GitHub](https://facebook.github.io/react-native/docs/getting-started.html#content)<br />
-  ```sh
+  ```
   $ npm install
   ``` 
 <br /><br />
